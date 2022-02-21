@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Paginator Component tests render Paginator Snapshot 1`] = `
+<div
+  className="css-1ankkus-Paginator"
+  data-testid="paginator-container"
+>
+  <div
+    className="css-1lfbuoc-Paginator"
+    data-testid="paginator-inner-container"
+  >
+    <button
+      className="css-h2k1wu-Paginator"
+      data-testid="previous-container"
+      onClick={[Function]}
+    >
+      prev
+    </button>
+    <button
+      className="css-pvyvj1-Paginator"
+      onClick={[Function]}
+    >
+      1
+    </button>
+    <button
+      className="css-63sgmp-Paginator"
+      onClick={[Function]}
+    >
+      2
+    </button>
+    <button
+      className="css-pvyvj1-Paginator"
+      onClick={[Function]}
+    >
+      10
+    </button>
+    <button
+      className="css-h2k1wu-Paginator"
+      onClick={[Function]}
+    >
+      next
+    </button>
+  </div>
+</div>
+`;
